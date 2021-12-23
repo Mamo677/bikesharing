@@ -12,11 +12,9 @@ https://public.tableau.com/app/profile/meareg.mamo/viz/Des_Moibes_Bike_Sharing/D
 #     Summary:<img width="1008" alt="checkout_times_by_gender" src="https://user-images.githubusercontent.com/90371048/147201581-098f1d24-48b8-48f6-9892-068794e08f6c.png">
                          .from the above graph we understood that Male are moere demand bike NYC other than other gender type and its busy during moring time!!
                          
-#    Summery                  
-                         <img width="1008" 
-                 <img width="1008" alt="checkout_times_by_gender" src="https://user-images.githubusercontent.com/90371048/147202132-8ec5db7b-92ee-4de9-9a3c-5442ccd389fa.png">
-
-                   .from the above graph which Trip by weekday per hour we understood that friday is the bussiest weekday and from 7AM_8AM AND 5PM_6PM IS Busiest and highly demand time(sergetime)
-   #    Summery                     
-                       .<img width="1008" alt="checkout_times_by_gender" src="https://user-images.githubusercontent.com/90371048/147202854-da0e2838-489b-44c8-8379-fa697893be99.png">
-                       from Trips by gender by weekday report we understood that majority  of the subscriber are male!
+#    Summery  :<img width="578" alt="heatmap_by_minute_by_hr" src="https://user-images.githubusercontent.com/90371048/147204279-84edc63d-7493-485d-ac37-b578dcf54a6a.png">
+                
+                  .from the above graph which Trip by weekday per hour we understood that friday is the bussiest weekday and from 7AM_8AM AND 5PM_6PM IS Busiest and highly demand time(sergetime)
+   #    Summery  :<img width="1147" alt="heatmap_user_gender" src="https://user-images.githubusercontent.com/90371048/147204400-646aeacf-2957-4306-9827-e66f531fac68.png">
+                   
+                      from Trips by gender by weekday report we understood that majority  of the subscriber are male!
